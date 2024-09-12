@@ -1,6 +1,6 @@
 # Diabetes-Prediction-using-BRFSS
 
-"Utilized the Behavioral Risk Factor Surveillance System data to predict diabetes using various machine learning algorithms."
+Utilized the Behavioral Risk Factor Surveillance System data to predict diabetes using various machine learning algorithms.
 
 # Dataset
 
